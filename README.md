@@ -11,4 +11,4 @@ Projects:
 
 [nostr.rehab TV Spot #1](https://nostr.build/p/nb3918.mp4)
 
-
+[50000 Nostr profiles in cyberspace](https://v.nostr.build/3AJm.mp4)
