@@ -19,5 +19,3 @@ Media:
 [Why Nostr TV Spot #1](https://v.nostr.build/Oyy5.mp4)
 
 ***
-
-![Drake Meme](https://i.nostr.build/8L6W.jpg)
