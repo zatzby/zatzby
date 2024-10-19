@@ -1,6 +1,6 @@
-Building https://whynostr.com
+Running https://whynostr.com
 
-Counseling at https://nostr.rehab 
+Counseling zap addicted Nostriches at https://nostr.rehab 
 
 Join my Web of Trust Nostr relay: https://satsage.xyz
 
